@@ -2,7 +2,7 @@ name: Cloudflare Wrangler Deploy
 
 on:
   push:
-    banches: [master]
+    banches: [deploy]
     
 jobs:
   deploy:
