@@ -3,5 +3,5 @@ type = "javascript"
 workers_dev = true
 
 [site]
-bucket = "public"
+bucket = "out"
 entry-point = "workers-site"
