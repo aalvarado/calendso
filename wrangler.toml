@@ -1,3 +1,4 @@
 name = "calendar"
 type = "webpack"
 workers_dev = true
+site = { bucket = "./out" }
