@@ -3,5 +3,5 @@ type = "javascript"
 workers_dev = true
 
 [site]
-bucket = "out"
+bucket = "pages"
 entry-point = "workers-site"
