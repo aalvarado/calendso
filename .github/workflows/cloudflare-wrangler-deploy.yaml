@@ -18,5 +18,3 @@ jobs:
           USER: root
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
-          secrets: |
-            CF_ACCOUNT_ID
