@@ -1,5 +1,5 @@
 name = "calendar"
-type = "javascript"
+type = "webpack"
 workers_dev = true
 
 [site]
